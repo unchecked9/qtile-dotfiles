@@ -1,0 +1,368 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/home/dalynn/
+	..
+1577139226
+'b
+	/home/dalynn/bin/
+	..
+1577139226
+'h
+	/home/dalynn/
+	..
+1577139226
+'z
+	/home/dalynn/.config/vifm
+	..
+1577139226
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/dev/disk
+	by-path
+4
+d/dev/disk/by-path
+	..
+0
+d/dev/disk
+	by-uuid
+5
+d/dev/disk/by-uuid
+	..
+0
+d/dev/disk
+	by-id
+1
+d/dev/disk/by-id
+	..
+0
+d/dev/disk
+	..
+0
+d/dev
+	..
+0
+d/
+	dev
+2
+d/dev
+	disk
+6
+d/dev/disk
+	by-label
+2
+d/dev/disk/by-label
+	..
+0
+d/dev/disk
+	..
+0
+d/dev
+	..
+0
+d/
+	mnt
+8
+d/mnt
+	..
+0
+d/
+	dev
+2
+d/dev
+	block
+1
+d/dev/block
+	..
+0
+d/dev
+	disk
+6
+d/dev/disk
+	by-label
+2
+d/dev/disk/by-label
+	..
+0
+d/dev/disk
+	..
+0
+d/dev
+	..
+0
+d/
+	dev
+2
+d/dev
+	..
+0
+d/
+	dev
+2
+d/run/media/dalynn/ARCH_201912
+	loader
+4
+d/run/media/dalynn
+	..
+0
+d/run/media
+	dalynn
+1
+d/run/media/dalynn
+	ARCH_201912
+1
+d/run/media/dalynn/ARCH_201912
+	arch
+2
+d/run/media/dalynn/ARCH_201912/arch
+	boot
+1
+d/run/media/dalynn/ARCH_201912/arch/boot
+	..
+0
+d/run/media/dalynn/ARCH_201912/arch
+	boot
+1
+d/run/media/dalynn/ARCH_201912
+	arch
+2
+d/run/media/dalynn
+	ARCH_201912
+1
+d/run/media/dalynn/ARCH_201912
+	loader
+4
+d/run/media/dalynn/ARCH_201912/loader
+	..
+0
+d/run/media/dalynn/ARCH_201912
+	..
+0
+d/run/media/dalynn
+	ARCH_201912
+1
+d/run/media
+	..
+0
+d/run
+	mount
+10
+d/
+	home
+4
+d/home
+	..
+0
+d/
+	home
+4
+d/home
+	dalynn
+1
+d/home/dalynn
+	documents
+9
+d/home/dalynn/documents
+	python
+2
+d/home/dalynn/documents/python
+	..
+0
+d/home/dalynn
+	Downloads
+8
+d/home/dalynn/Downloads
+	Book.xlsx
+1
+d/home/dalynn
+	documents
+9
+d/home/dalynn/documents
+	python
+2
+d/home/dalynn/documents/python
+	Book.xlsx
+1
+d/home/dalynn/documents
+	python
+2
+d/home/dalynn
+	documents
+9
+d/home
+	dalynn
+1
+d/
+	usr
+18
+d/usr
+	share
+8
+d/usr/share
+	..
+0
+d/usr
+	share
+8
+d/
+	dev
+2
+d/dev
+	block
+1
+d/dev/block
+	..
+0
+d/dev
+	disk
+6
+d/dev/disk
+	..
+0
+d/dev
+	disk
+6
+d/
+	usr
+18
+d/usr
+	share
+8
+d/usr/share
+	zsh
+52
+d/usr
+	src
+9
+d/usr/src
+	..
+0
+d/usr
+	local
+6
+d/usr/local
+	sbin
+7
+d/usr
+	local
+6
+d/usr/local
+	share
+8
+d/usr/local/share
+	..
+0
+d/usr/local
+	share
+8
+d/usr
+	local
+6
+d/
+	dev
+2
+d/dev
+	dri
+7
+d/dev/dri
+	by-path
+1
+d/dev/dri/by-path
+	pci-0000:00:02.0-card
+1
+d/dev/dri
+	by-path
+1
+d/dev
+	disk
+6
+d/dev/disk
+	by-id
+1
+d/dev/disk/by-id
+	wwn-0x5001b448b903f295
+8
+d/dev/disk
+	by-id
+1
+d/dev/disk/by-id
+	usb-PNY_USB_3.0_FD_AA520221A0000072-0:0-part3
+7
+d/dev/disk
+	by-id
+1
+d/dev
+	block
+1
+d/dev/block
+	7:0
+1
+d/dev
+	block
+1
+d/dev/block
+	7:0
+1
+d/dev
+	dri
+7
+d/dev/dri
+	by-path
+1
+d/dev
+	loop2
+39
+d/
+	dev
+2
+d/dev
+	port
+29
+d
+
+# Right window history (oldest to newest):
+D/home/dalynn
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:wq
+:q
+
+# Search history (oldest to newest):
+/.config
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/dalynn/Downloads/Book.xlsx
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].1
+]F
+s0
